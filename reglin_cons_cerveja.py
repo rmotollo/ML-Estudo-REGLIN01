@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 
 
 #Importando o dataset
-dataset = pd.read_csv('./regres_linear/Consumo_cerveja.csv', sep=',')
+dataset = pd.read_csv('./dados/Consumo_cerveja.csv', sep=',')
 df = pd.DataFrame(dataset)
 
 #converter strings para float

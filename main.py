@@ -1,5 +1,4 @@
 import streamlit as st
-import reglin_cons_cerveja as rcc
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
